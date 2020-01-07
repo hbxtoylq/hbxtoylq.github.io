@@ -51,7 +51,10 @@
                                 {% endif %}
                             </ul>
                       
-                           
+                              {% if post.modal-id == '1' %}
+                                <img src="img/avgm/avgmsystems.JPG" class="img-responsive" alt="avgm systems">
+ 
+                            {% endif %}
                          
                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                          <br>
