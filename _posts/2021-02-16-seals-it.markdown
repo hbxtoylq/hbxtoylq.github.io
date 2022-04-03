@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 13
-img: sealsit.png
-alt: consolati-tax-prep
+img: sealsit.jpg
+alt: seals-it
 client: Seals-It
 skill: Wordpress, WPBakery Page Builder, WPEngine, Shortcodes, PHP, HTML, CSS, JavaScript, Plugin Development, Theme Customization
 category: Custom Wordpress Development
